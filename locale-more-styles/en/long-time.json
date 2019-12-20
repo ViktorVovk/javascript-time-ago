@@ -20,12 +20,12 @@
 		"other": "{0} hours"
 	},
 	"minute": {
-		"one": "{0} minute",
-		"other": "{0} minutes"
+		"one": "{0} min",
+		"other": "{0} min"
 	},
 	"second": {
-		"one": "{0} second",
-		"other": "{0} seconds"
+		"one": "{0} sec",
+		"other": "{0} sec"
 	},
 	"now": {
 		"future": "in a moment",
