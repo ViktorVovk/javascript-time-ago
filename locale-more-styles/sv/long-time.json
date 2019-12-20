@@ -1,0 +1,34 @@
+{
+	"year": {
+		"one": "{0} år",
+		"other": "{0} års"
+	},
+	"month": {
+		"one": "{0} månad",
+		"other": "{0} månader"
+	},
+	"week": {
+		"one": "{0} vecka",
+		"other": "{0} veckor"
+	},
+	"day": {
+		"one": "{0} dag",
+		"other": "{0} dagar"
+	},
+	"hour": {
+		"one": "{0} timme",
+		"other": "{0} timmar"
+	},
+	"minute": {
+		"one": "{0} min",
+		"other": "{0} min"
+	},
+	"second": {
+		"one": "{0} sek",
+		"other": "{0} sek"
+	},
+	"now": {
+		"future": "i ett ögonblick",
+		"past": "precis nu"
+	}
+}
